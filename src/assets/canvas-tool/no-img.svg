@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="140px" height="90px" viewBox="0 0 140 90" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>编组 7</title>
+    <defs>
+        <polygon id="path-1" points="0 0 96 0 96 51.047619 0 51.047619"></polygon>
+    </defs>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="02-01-空白工作台" transform="translate(-50.000000, -105.000000)">
+            <g id="编组-10" transform="translate(0.000000, 60.000000)">
+                <g id="编组-8" transform="translate(20.000000, 20.000000)">
+                    <g id="编组-6" fill="#F6F6F6">
+                        <rect id="矩形" x="0" y="0" width="200" height="140" rx="8"></rect>
+                    </g>
+                    <g id="编组-7" transform="translate(30.000000, 25.000000)">
+                        <rect id="矩形" fill="#FBFBFB" x="0" y="0" width="140" height="90" rx="4"></rect>
+                        <g id="编组-5" transform="translate(70.000000, 52.000000) rotate(-360.000000) translate(-70.000000, -52.000000) translate(0.000000, 14.000000)">
+                            <g id="编组" transform="translate(44.000000, 24.652952)">
+                                <mask id="mask-2" fill="white">
+                                    <use xlink:href="#path-1"></use>
+                                </mask>
+                                <g id="Clip-4"></g>
+                                <path d="M96,51.047619 L96,36.9665316 L61.8431522,2.83317028 C58.0629925,-0.944390093 51.9321931,-0.944390093 48.1504118,2.83317028 L-2.34479103e-13,50.9504735 L96,50.9504735 C96,50.9504735 96,47.1607588 96,42.4853999 L96,51.047619 Z" id="Fill-3" fill="#E9E4F3" mask="url(#mask-2)"></path>
+                            </g>
+                            <path d="M108.190476,76 L50.2171505,17.8477639 C46.5027912,14.1142374 40.478709,14.1142374 36.7627562,17.8477639 L0,54.5554374 L0,75.9042177 C0,76 3.72631032,76 8.32344749,76 L108.190476,76 Z" id="Fill-5" fill="#F0EDF5"></path>
+                            <path d="M118.142522,16.7619048 C122.560798,16.7619048 126.142857,13.0098158 126.142857,8.38095238 C126.142857,3.75208899 122.560798,0 118.142522,0 C113.724917,0 110.142857,3.75208899 110.142857,8.38095238 C110.142857,13.0098158 113.724917,16.7619048 118.142522,16.7619048 Z" id="Fill-7" fill="#EBE5F3"></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

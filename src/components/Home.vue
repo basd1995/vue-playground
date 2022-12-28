@@ -6,6 +6,10 @@ const experiments = ref([
     name: '拖拽',
     path: '/drag',
   },
+  {
+    name: '白板',
+    path: '/whiteboard',
+  },
 ])
 const go = (path: string) => {
   router.push(path)

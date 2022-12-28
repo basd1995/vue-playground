@@ -15,6 +15,11 @@ const publicRoutes = [
     name: 'drag',
     component: () => import('@/components/Drag.vue'),
   },
+  {
+    path: '/whiteboard',
+    name: 'whiteboard',
+    component: () => import('@/components/Whiteboard.vue'),
+  },
 ]
 
 const router: Router = createRouter({

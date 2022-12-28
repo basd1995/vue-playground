@@ -15,7 +15,8 @@
     "noEmit": true,
     "types": [
       "vite/client",
-      "vue"
+      "vue",
+      "node"
     ],
     "paths": {
       "@/*": ["src/*"]

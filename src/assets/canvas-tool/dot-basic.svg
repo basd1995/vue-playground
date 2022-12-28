@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="70px" height="70px" viewBox="0 0 70 70" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>切片</title>
+    <defs>
+        <filter x="-17.1%" y="-17.1%" width="134.3%" height="134.3%" filterUnits="objectBoundingBox" id="filter-1">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.502547554   0 0 0 0 0.502547554   0 0 0 0 0.502547554  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+    </defs>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="04-10新建任务集-已选择处理人备份-2" transform="translate(-1065.000000, -446.000000)">
+            <g id="编组-8" filter="url(#filter-1)" transform="translate(1065.000000, 446.000000)">
+                <g id="功能框-打点-选中">
+                    <g id="地点"></g>
+                    <rect id="矩形" fill="#000000" fill-rule="nonzero" opacity="0" x="0" y="0" width="70" height="70"></rect>
+                    <path d="M25.9998253,2.71512158 C32.4360244,0.550648982 38.8920908,0.465985044 44.7349265,2.28689033 C50.5665874,4.10431296 55.7819246,7.81880011 59.7513373,13.2211141 C63.4541658,18.3863934 65.2992692,24.4344978 65.2878259,30.4792393 C65.2763825,36.5239902 63.4083874,42.5651726 59.6854347,47.717074 C55.0194156,53.9179273 51.8056016,56.8823708 45.9785751,62.2477395 L45.9785751,62.2477395 L42.9943036,64.9951638 C40.8126771,67.6037041 38.4744742,69 35.9771837,69 C33.3218711,69 30.8912974,67.4551745 28.6331639,64.6373537 C26.5709637,62.4617571 24.7243033,60.7371928 22.9585667,59.0888087 C22.7309673,58.8763358 22.5047299,58.6651348 22.2796836,58.4545247 C18.925878,55.4935726 15.8795816,52.2475526 13.1643497,48.7460376 C8.71751822,42.916506 6.67926184,37.0036756 6.84243776,30.6524907 C6.75011319,24.2446116 8.63217973,18.2491311 11.9976134,13.3533087 C15.3539842,8.47067037 20.1859913,4.68245951 25.9998253,2.71512158 Z" id="路径" stroke="#FFFFFF" stroke-width="2" fill="#821E87" fill-rule="nonzero"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

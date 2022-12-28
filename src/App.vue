@@ -1,6 +1,4 @@
 <script setup lang="ts">
-import { Button } from 'vapour-ui'
-import 'vue3-mindmap/dist/style.css'
 </script>
 
 <template>
